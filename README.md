@@ -1,2 +1,2 @@
 # music
-Musical client+server
+Server + client to stream and listen to music.
